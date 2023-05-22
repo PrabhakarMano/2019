@@ -1,0 +1,4 @@
+load: "ConsoleApplication2\Debug\ConsoleApplication2.obj"
+source path: "ConsoleApplication2"
+msbuild command: "ConsoleApplication2.vcxproj /target:ClCompile /m /p:Configuration=Debug;Platform=Win32"
+vc ver: 2019
